@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "PERFECT HUMAN",
+  "base_artist": "RADIO FISH",
+  "createdAt": "2025-12-10T07:07:54.204112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PERFECT HUMAN",
+      "artist": "RADIO FISH",
+      "has_synced": true,
+      "path": "select/01_PERFECT_HUMAN_RADIO_FISH.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Perfect Human",
+      "artist": "City in the Sea",
+      "has_synced": false,
+      "path": "select/02_Perfect_Human_City_in_the_Sea.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PERFECT HUMAN",
+      "artist": "RADIO FISH",
+      "has_synced": false,
+      "path": "select/pl_01_PERFECT_HUMAN_RADIO_FISH.txt"
+    }
+  ]
+}
